@@ -1,0 +1,25 @@
+telegram
+https://api.telegram.org/bot6926341079:AAGCvn15z1ZAZY-lSMKsVUohdXKFdcBh004/getUpdates
+
+group campusconnect
+-4139076718
+
+akshay
+1396852654
+
+sairaj nalla
+1913891536
+
+{
+        "url": "http://good-amazingly-starling.ngrok-free.app/api/v1/campusconnectapi/1809/",
+        "name": "Akshay Jadhav",
+        "enr_no": "2100930094",
+        "phno": "7208151141",
+        "parents_phno": "9828237278",
+        "addr": "test address is here (Akshay 1234)",
+        "branch": "TYCO1",
+        "percentage": "80",
+        "email": "akshay@gmail.com",
+        "kt": false,
+        "chatid": "1396852654"
+    },

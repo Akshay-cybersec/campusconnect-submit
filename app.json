@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "CampusConnect",
+    "slug": "CampusConnect",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./images/logotesting.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./images/logotesting.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0C353C"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.akshaycybersec.CampusConnect"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./images/logotesting.png",
+        "backgroundColor": "#0C353C"
+      },
+      "package": "com.akshaycybersec.CampusConnect"
+    },
+    "web": {
+      "favicon": "./images/logotesting.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "91c65081-af6a-47dc-9228-0a72efafae7b"
+      }
+    }
+  }
+}

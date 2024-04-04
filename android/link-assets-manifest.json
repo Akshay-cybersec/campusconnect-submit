@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "universal/fonts/Sahitya-Bold.ttf",
+      "sha1": "eea8be8c0f0a23bdb162e2808a8a6b9cd5302e9c"
+    },
+    {
+      "path": "universal/fonts/Sahitya-Regular.ttf",
+      "sha1": "7dd04564aa54f4d723eac1df455b59fa3d491595"
+    }
+  ]
+}
